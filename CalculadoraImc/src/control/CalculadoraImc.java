@@ -1,3 +1,8 @@
+//Engenharia da Computação - Desenvolvimento Mobile
+//
+//Felipe Ferreira Neto Filgueiras matricula - 202101297911
+//Isabelle Areias Ribeiro Mamprim matrricula - 202109123289
+
 package control;
 
 public class CalculadoraImc {
